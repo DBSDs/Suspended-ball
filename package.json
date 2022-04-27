@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
+  "name": "Suspended-ball",
   "version": "10.5.2",
-  "description": "Angular 13 with Electron 18 (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "description": "桌面端加速球！！",
+  "homepage": ".",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "op-chen",
+    "email": "379172747@qq.com"
   },
   "keywords": [
     "angular",
